@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on pandemic/epidermic forecasting using ML
 - 📫 How to reach me : in bio
 - 😄 Pronouns: he/HIM
-- ⚡ Fun fact: none really
+- ⚡ Fun fact: too many to mention really
 
 <!---
 takudzwamvere/takudzwamvere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
