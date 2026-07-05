@@ -195,9 +195,32 @@
       </div>
       <br />
 
+      <!-- Section: 04-experience.tsx -->
       <div id="experience">
-        <!-- TODO: experience section -->
+        <h3>💼 04-experience.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code><br>
+              <code>4</code><br>
+              <code>5</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>PROFESSIONAL EXPERIENCE</code><br>
+              <br>
+              <!-- TODO: experience from CV -->
+              <code>Role -- Company -- Location -- Dates</code>
+              <ul>
+                <li><!-- TODO: bullet 1 --></li>
+                <li><!-- TODO: bullet 2 --></li>
+              </ul>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <div id="certs">
         <!-- TODO: education and certifications sections -->
