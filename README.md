@@ -63,7 +63,15 @@ Location: Harare, Zimbabwe
 | **MSU Campus Map** | Interactive campus navigation for Midlands State University | Next.js · React · Leaflet | [Live](https://msucampusmap.online/) | [Repo](https://github.com/takudzwamvere/msu-campus-map-v1) |
 | **Haulage Truck Management** | Full-stack fleet management system, built to production under time constraints | Django Ninja · Postgres · Docker | [Live](https://haulagetrucks.lol) | [Repo](https://github.com/takudzwamvere/haulage-truck-management) |
 
-<!-- TODO: client/frontend work section placeholder -->
+**Client & frontend work**
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| **takudzwamvere.dev** | Personal portfolio and technical blog | Next.js · TypeScript · Tailwind | [Live](https://takudzwamvere.dev/) |
+| **assetbasezim.com** | Web portal with Tailwind and ShadCN components | Next.js · Framer Motion · Tailwind | [Live](https://assetbasezim.com/) |
+| **timelesscustoms.co.zw** | PWA marketing site for a home finishing and interior design business | Next.js · TypeScript · Tailwind | [Live](http://timelesscustoms.co.zw/) |
+| **Russell Planners** | Luxury event design and planning marketing site | Next.js · React · Tailwind | [Live](https://russellplanners.takudzwamvere.dev/) |
+| **Glamson** | Driving school booking and marketing site | Next.js · TypeScript · Tailwind | [Live](https://glamson.takudzwamvere.dev/) |
 
 <!-- Section experience.tsx placeholder -->
 <!-- TODO: experience section -->
