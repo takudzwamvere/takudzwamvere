@@ -1,6 +1,6 @@
 # Takudzwa Mvere
 
-<!-- TODO: tagline -->
+> Full-Stack Developer · Systems Tester · Computer Systems Engineer
 
 <table>
   <tr>
@@ -24,26 +24,24 @@
       </div>
       <br />
 
-      <!-- Header Banner Placeholder -->
+      <!-- Header Banner -->
       <div align="center">
-        <!-- TODO: header banner lines from CV -->
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=89B4FA&center=true&vCenter=true&width=500&height=50&lines=TODO+1;TODO+2;TODO+3" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=89B4FA&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;Django+%2B+Next.js;Systems+Tester;Harare,+Zimbabwe" alt="Typing SVG" />
       </div>
 
-      <!-- Contact Row Placeholder -->
+      <!-- Contact Row -->
       <div align="center">
-        <!-- TODO: contact/status badges from CV -->
         <a href="https://takudzwamvere.dev" target="_blank">
-          <img src="https://img.shields.io/badge/portfolio-TODO-89B4FA?style=for-the-badge&logo=react&logoColor=89B4FA&labelColor=0d1117" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/portfolio-takudzwamvere.dev-89B4FA?style=for-the-badge&logo=react&logoColor=89B4FA&labelColor=0d1117" alt="Portfolio" />
         </a>
         <a href="mailto:mveretakudzwa@outlook.com">
-          <img src="https://img.shields.io/badge/email-TODO-89B4FA?style=for-the-badge&logo=microsoftoutlook&logoColor=89B4FA&labelColor=0d1117" alt="Email" />
+          <img src="https://img.shields.io/badge/email-mveretakudzwa@outlook.com-89B4FA?style=for-the-badge&logo=microsoftoutlook&logoColor=89B4FA&labelColor=0d1117" alt="Email" />
         </a>
         <a href="https://linkedin.com/in/takudzwamvere" target="_blank">
-          <img src="https://img.shields.io/badge/linkedin-TODO-89B4FA?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=0d1117" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/linkedin-takudzwamvere-89B4FA?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=0d1117" alt="LinkedIn" />
         </a>
         <a href="https://github.com/takudzwamvere" target="_blank">
-          <img src="https://img.shields.io/badge/github-TODO-89B4FA?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=0d1117" alt="GitHub" />
+          <img src="https://img.shields.io/badge/github-takudzwamvere-89B4FA?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=0d1117" alt="GitHub" />
         </a>
       </div>
 
@@ -57,13 +55,17 @@
               <code>1</code><br>
               <code>2</code><br>
               <code>3</code><br>
-              <code>4</code>
+              <code>4</code><br>
+              <code>5</code><br>
+              <code>6</code>
             </td>
-            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+            <td valign="top" style="padding-left: 10px; font-family: monospace; color: #cdd6f4;">
               <code>$ cat about.txt</code><br>
-              <code><!-- TODO: who I am / what I build --></code><br>
-              <code><!-- TODO: current focus --></code><br>
-              <code><!-- TODO: open-to status --></code>
+              <code>Graduate in Computer Systems Engineering from Midlands State University.</code><br>
+              <code>Full-stack developer building scalable web platforms with Django and Next.js.</code><br>
+              <code>Systems tester experienced in automation with Selenium, Postman and Jira.</code><br>
+              <code>Currently open to software engineering roles and freelance contracts.</code><br>
+              <code>Location: Harare, Zimbabwe</code>
             </td>
           </tr>
         </table>
@@ -97,28 +99,22 @@
             </td>
             <td valign="top" style="padding-left: 10px; font-family: monospace;">
               <code>LANGUAGES</code><br>
-              <!-- TODO: skillicons row for core languages from CV -->
-              <img src="https://skillicons.dev/icons?i=python" alt="Languages" /><br>
+              <img src="https://skillicons.dev/icons?i=python,js,java,html,css" alt="Languages" /><br>
               <br>
               <code>FRONTEND</code><br>
-              <!-- TODO: skillicons row for frontend from CV -->
-              <img src="https://skillicons.dev/icons?i=react" alt="Frontend" /><br>
+              <img src="https://skillicons.dev/icons?i=nextjs,react,vue" alt="Frontend" /><br>
               <br>
               <code>BACKEND</code><br>
-              <!-- TODO: skillicons row for backend from CV -->
-              <img src="https://skillicons.dev/icons?i=django" alt="Backend" /><br>
+              <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs" alt="Backend" /><br>
               <br>
               <code>DATABASE</code><br>
-              <!-- TODO: skillicons row for database from CV -->
-              <img src="https://skillicons.dev/icons?i=postgres" alt="Database" /><br>
+              <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Database" /><br>
               <br>
               <code>INFRA & DEVOPS</code><br>
-              <!-- TODO: skillicons row for infra & devops from CV -->
-              <img src="https://skillicons.dev/icons?i=docker" alt="Infra & DevOps" /><br>
+              <img src="https://skillicons.dev/icons?i=docker,ubuntu,vercel,aws,azure,cloudflare" alt="Infra & DevOps" /><br>
               <br>
               <code>TOOLING</code><br>
-              <!-- TODO: skillicons row for tools from CV -->
-              <img src="https://skillicons.dev/icons?i=git" alt="Tooling" /><br>
+              <img src="https://skillicons.dev/icons?i=git,figma,nginx" alt="Tooling" /><br>
               <br>
             </td>
           </tr>
@@ -126,6 +122,9 @@
       </div>
       <br />
 
+      <!-- Section: 03-projects.tsx -->
+      <div id="projects">
+        <h3>🚀 03-projects.tsx</h3>
       <!-- Section: 03-projects.tsx -->
       <div id="projects">
         <h3>🚀 03-projects.tsx</h3>
@@ -141,7 +140,12 @@
               <code>7</code><br>
               <code>8</code><br>
               <code>9</code><br>
-              <code>10</code>
+              <code>10</code><br>
+              <code>11</code><br>
+              <code>12</code><br>
+              <code>13</code><br>
+              <code>14</code><br>
+              <code>15</code>
             </td>
             <td valign="top" style="padding-left: 10px; font-family: monospace;">
               <code>FLAGSHIP PROJECTS</code>
@@ -156,13 +160,49 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <!-- TODO: flagship projects from CV -->
                   <tr>
-                    <td><code>TODO</code></td>
-                    <td><!-- TODO: description --></td>
-                    <td><!-- TODO: tech tags --></td>
-                    <td><!-- TODO: live --></td>
-                    <td><!-- TODO: repo --></td>
+                    <td><b>Epidemic Prediction</b></td>
+                    <td>Predict epidemic outbreaks using EHR time series models.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://epidemicoracle.takudzwamvere.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td><a href="https://github.com/takudzwamvere/epidemic-oracle" target="_blank"><img src="https://img.shields.io/badge/Repo-89B4FA?style=flat-square&logo=github&logoColor=0d1117" /></a></td>
+                  </tr>
+                  <tr>
+                    <td><b>AI Traffic Optimizer</b></td>
+                    <td>React Native mobile navigation providing traffic-aware routing.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/OSM-0d1117?style=flat-square&logo=openstreetmap&logoColor=89B4FA" />
+                    </td>
+                    <td>-</td>
+                    <td><a href="https://github.com/takudzwamvere/ai-traffic-optimizer" target="_blank"><img src="https://img.shields.io/badge/Repo-89B4FA?style=flat-square&logo=github&logoColor=0d1117" /></a></td>
+                  </tr>
+                  <tr>
+                    <td><b>MSU Campus Map</b></td>
+                    <td>Interactive virtual navigation system for Midlands State University.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Leaflet-0d1117?style=flat-square&logo=leaflet&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://msucampusmap.online/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td><a href="https://github.com/takudzwamvere/msu-campus-map-v1" target="_blank"><img src="https://img.shields.io/badge/Repo-89B4FA?style=flat-square&logo=github&logoColor=0d1117" /></a></td>
+                  </tr>
+                  <tr>
+                    <td><b>Haulage Truck Management</b></td>
+                    <td>Full-stack fleet management system with audit logging and assignment logic.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://haulagetrucks.lol" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td><a href="https://github.com/takudzwamvere/haulage-truck-management" target="_blank"><img src="https://img.shields.io/badge/Repo-89B4FA?style=flat-square&logo=github&logoColor=0d1117" /></a></td>
                   </tr>
                 </tbody>
               </table>
@@ -179,13 +219,60 @@
                   </tr>
                 </thead>
                 <tbody>
-                  <!-- TODO: client/frontend work from CV -->
                   <tr>
-                    <td><code>TODO</code></td>
-                    <td><!-- TODO: description --></td>
-                    <td><!-- TODO: tech tags --></td>
-                    <td><!-- TODO: live --></td>
-                    <td><!-- TODO: repo --></td>
+                    <td><b>takudzwamvere.dev</b></td>
+                    <td>Developer portfolio and technical blog built with React 19.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/TS-0d1117?style=flat-square&logo=typescript&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://takudzwamvere.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td><a href="https://github.com/takudzwamvere/takudzwamvere" target="_blank"><img src="https://img.shields.io/badge/Repo-89B4FA?style=flat-square&logo=github&logoColor=0d1117" /></a></td>
+                  </tr>
+                  <tr>
+                    <td><b>assetbasezim.com</b></td>
+                    <td>Next.js web portal using TailwindCSS and ShadCN components.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Motion-0d1117?style=flat-square&logo=framer&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://assetbasezim.com/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td>-</td>
+                  </tr>
+                  <tr>
+                    <td><b>timelesscustoms.co.zw</b></td>
+                    <td>PWA marketing site for home finishing and interior design.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/TS-0d1117?style=flat-square&logo=typescript&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="http://timelesscustoms.co.zw/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td>-</td>
+                  </tr>
+                  <tr>
+                    <td><b>russellplanners.dev</b></td>
+                    <td>Luxury event design and planning company marketing website.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://russellplanners.takudzwamvere.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td>-</td>
+                  </tr>
+                  <tr>
+                    <td><b>glamson.dev</b></td>
+                    <td>Driving school booking site with instructor contact details.</td>
+                    <td>
+                      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/TS-0d1117?style=flat-square&logo=typescript&logoColor=89B4FA" />
+                      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=89B4FA" />
+                    </td>
+                    <td><a href="https://glamson.takudzwamvere.dev/" target="_blank"><img src="https://img.shields.io/badge/Live-89B4FA?style=flat-square&logo=googlechrome&logoColor=0d1117" /></a></td>
+                    <td>-</td>
                   </tr>
                 </tbody>
               </table>
@@ -205,81 +292,130 @@
               <code>2</code><br>
               <code>3</code><br>
               <code>4</code><br>
-              <code>5</code>
+              <code>5</code><br>
+              <code>6</code><br>
+              <code>7</code><br>
+              <code>8</code><br>
+              <code>9</code><br>
+              <code>10</code><br>
+              <code>11</code><br>
+              <code>12</code><br>
+              <code>13</code><br>
+              <code>14</code><br>
+              <code>15</code><br>
+              <code>16</code>
             </td>
-            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+            <td valign="top" style="padding-left: 10px; font-family: monospace; color: #cdd6f4;">
               <code>PROFESSIONAL EXPERIENCE</code><br>
               <br>
-              <!-- TODO: experience from CV -->
-              <code>Role -- Company -- Location -- Dates</code>
-              <ul>
-                <li><!-- TODO: bullet 1 --></li>
-                <li><!-- TODO: bullet 2 --></li>
-              </ul>
-            </td>
-          </tr>
-        </table>
-      </div>
-      <br />
-
-      <!-- Section: 05-education.tsx -->
-      <div id="education">
-        <h3>🎓 05-education.tsx</h3>
-        <table>
-          <tr>
-            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
-              <code>1</code><br>
-              <code>2</code><br>
-              <code>3</code><br>
-              <code>4</code>
-            </td>
-            <td valign="top" style="padding-left: 10px; font-family: monospace;">
-              <code>EDUCATION</code><br>
+              <code>[01] Software Developer @ Hericom Media & Marketing</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03/2026 - Present | Remote (Australia)</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Maintained and optimised news portal on WordPress and Bluehost</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Deployed integrations including Broadstreet Ad Server and widgets</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Configured PressPatron payment pipelines and user checkout</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Structured role-based privileges and workflows for the team</code><br>
               <br>
-              <!-- TODO: education details from CV -->
-              <code>Degree -- Institution -- Dates -- Result</code>
+              <code>[02] Technical Intern @ Omni Africa</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02/2024 - 12/2024 | Harare, ZW</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Delivered cabling, switch configuration and server setup for CABS branch</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Deployed Hikvision CCTV systems across multiple corporate client sites</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Installed ZKTeco biometric access control from survey to handover</code><br>
+              <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Configured Fortinet firewalls to block external malicious sites</code>
             </td>
           </tr>
         </table>
       </div>
       <br />
 
-      <!-- Section: 06-certifications.tsx -->
+      <!-- Section: 05-education.tsx & 06-certifications.tsx -->
       <div id="certs">
-        <h3>🏆 06-certifications.tsx</h3>
-        <table>
-          <tr>
-            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
-              <code>1</code><br>
-              <code>2</code><br>
-              <code>3</code><br>
-              <code>4</code><br>
-              <code>5</code>
-            </td>
-            <td valign="top" style="padding-left: 10px; font-family: monospace;">
-              <code>CERTIFICATIONS</code>
-              <table>
-                <thead>
-                  <tr>
-                    <th align="left">Certification</th>
-                    <th align="left">Platform</th>
-                    <th align="left">Badge</th>
-                    <th align="left">Verification</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <!-- TODO: certifications from CV -->
-                  <tr>
-                    <td><code>TODO</code></td>
-                    <td><code>TODO</code></td>
-                    <td><!-- TODO: badge --></td>
-                    <td><!-- TODO: verification link --></td>
-                  </tr>
-                </tbody>
-              </table>
-            </td>
-          </tr>
-        </table>
+        <div id="education">
+          <h3>🎓 05-education.tsx</h3>
+          <table>
+            <tr>
+              <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+                <code>1</code><br>
+                <code>2</code><br>
+                <code>3</code><br>
+                <code>4</code><br>
+                <code>5</code><br>
+                <code>6</code><br>
+                <code>7</code><br>
+                <code>8</code><br>
+                <code>9</code><br>
+                <code>10</code>
+              </td>
+              <td valign="top" style="padding-left: 10px; font-family: monospace; color: #cdd6f4;">
+                <code>EDUCATION</code><br>
+                <br>
+                <code>[01] BSc Honours Degree in Computer Systems Engineering</code><br>
+                <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Midlands State University | 03/2022 - 11/2025 | Class: 2.1</code><br>
+                <br>
+                <code>[02] A-Level Certificate</code><br>
+                <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mandedza High School | 03/2020 - 11/2021 | Result: 14 points</code><br>
+                <br>
+                <code>[03] O-Level Certificate</code><br>
+                <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mandedza High School | 01/2016 - 11/2019 | Result: 11 passes</code>
+              </td>
+            </tr>
+          </table>
+        </div>
+        <br />
+
+        <div>
+          <h3>🏆 06-certifications.tsx</h3>
+          <table>
+            <tr>
+              <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+                <code>1</code><br>
+                <code>2</code><br>
+                <code>3</code><br>
+                <code>4</code><br>
+                <code>5</code><br>
+                <code>6</code>
+              </td>
+              <td valign="top" style="padding-left: 10px; font-family: monospace;">
+                <code>CERTIFICATIONS</code>
+                <table>
+                  <thead>
+                    <tr>
+                      <th align="left">Certification</th>
+                      <th align="left">Platform</th>
+                      <th align="left">Badge</th>
+                      <th align="left">Verification</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>AWS Cloud Development Kit (CDK) Getting Started</td>
+                      <td>AWS Training</td>
+                      <td><img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=89B4FA" alt="AWS" /></td>
+                      <td><a href="https://aws.amazon.com/" target="_blank">Verify</a></td>
+                    </tr>
+                    <tr>
+                      <td>Artificial Intelligence Foundations: Machine Learning</td>
+                      <td>LinkedIn Learning</td>
+                      <td><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=89B4FA" alt="LinkedIn" /></td>
+                      <td><a href="https://www.linkedin.com/learning/certificates/5e625ccb439670a77a061557e024bb13ff7b558b6e5ad4dd702959a76f09818e" target="_blank">Verify</a></td>
+                    </tr>
+                    <tr>
+                      <td>Artificial Intelligence for Cybersecurity</td>
+                      <td>LinkedIn Learning</td>
+                      <td><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=89B4FA" alt="LinkedIn" /></td>
+                      <td><a href="https://www.linkedin.com/learning/certificates/121c7256b7e35fa2276d4c18ab476ec7ff7b558b6e5ad4dd702959a76f09818e" target="_blank">Verify</a></td>
+                    </tr>
+                    <tr>
+                      <td>Blockchain: Learning Solidity</td>
+                      <td>LinkedIn Learning</td>
+                      <td><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=89B4FA" alt="LinkedIn" /></td>
+                      <td><a href="https://www.linkedin.com/learning/certificates/83c7732274248cfd77186af98ff1bbf1f2d48f5bad28da1e85bcfdd9d40ea88e" target="_blank">Verify</a></td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
       </div>
       <br />
 
