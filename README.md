@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/takudzwamvere"><img src="https://img.shields.io/badge/linkedin-connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117" /></a>
 <a href="https://github.com/takudzwamvere"><img src="https://img.shields.io/badge/github-follow-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0d1117" /></a>
 
-<!-- TODO: tab bar navigation row -->
+<code><a href="#about">about</a></code> · <code><a href="#stack">stack</a></code> · <code><a href="#projects">projects</a></code> · <code><a href="#experience">experience</a></code> · <code><a href="#education">education</a></code> · <code><a href="#certifications">certs</a></code> · <code><a href="#stats">stats</a></code>
 
 </div>
 
