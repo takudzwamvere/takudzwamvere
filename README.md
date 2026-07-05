@@ -28,7 +28,21 @@
       </div>
 
       <!-- Contact Row Placeholder -->
-      <!-- TODO: contact/status badge row -->
+      <div align="center">
+        <!-- TODO: contact/status badges from CV -->
+        <a href="https://takudzwamvere.dev" target="_blank">
+          <img src="https://img.shields.io/badge/portfolio-TODO-89B4FA?style=for-the-badge&logo=react&logoColor=89B4FA&labelColor=0d1117" alt="Portfolio" />
+        </a>
+        <a href="mailto:mveretakudzwa@outlook.com">
+          <img src="https://img.shields.io/badge/email-TODO-89B4FA?style=for-the-badge&logo=microsoftoutlook&logoColor=89B4FA&labelColor=0d1117" alt="Email" />
+        </a>
+        <a href="https://linkedin.com/in/takudzwamvere" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-TODO-89B4FA?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=0d1117" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/takudzwamvere" target="_blank">
+          <img src="https://img.shields.io/badge/github-TODO-89B4FA?style=for-the-badge&logo=github&logoColor=89B4FA&labelColor=0d1117" alt="GitHub" />
+        </a>
+      </div>
 
       <!-- Sections -->
       <div id="about">
