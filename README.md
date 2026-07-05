@@ -1,42 +1,59 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=30&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hello+There!+I'm+Takudzwa+Mvere;Software+Developer;Machine+Learning+Enthusiast;Web+App+Creator" alt="Typing SVG" />
-</div>
+# Takudzwa Mvere
 
-<h3 align="center">About Me 👨‍💻</h3>
-<p align="center"> 
-  <em>Began the journey with Software Development in Web Apps and now venturing into the world of AI/ML.</em>
-</p>
+<!-- TODO: tagline -->
 
-- 🔭 I'm interested in **coding web apps** and building scalable solutions.
-- 🌱 I'm currently learning **Machine Learning** and **Deep Learning**.
-- 👯 I'm looking to collaborate on **pandemic/epidemic forecasting using ML**.
-- ⚡ Fun fact: **Too many to mention!**
-- 📫 Reach me at: **mveretakudzwa@proton.me** or **mveretakudzwa@outlook.com**
+<table>
+  <tr>
+    <!-- NvimTree Sidebar -->
+    <td width="220px" valign="top" style="font-family: monospace; border-right: 1px solid #313244; padding-right: 10px;">
+      <h4>📁 takudzwamvere</h4>
+      <ul>
+        <li>📄 <a href="#about">about.tsx</a></li>
+        <li>📄 <a href="#stack">stack.tsx</a></li>
+        <li>📄 <a href="#projects">projects.tsx</a></li>
+        <li>📄 <a href="#experience">experience.tsx</a></li>
+        <li>📄 <a href="#certs">certs.tsx</a></li>
+        <li>📄 <a href="#stats">stats.tsx</a></li>
+      </ul>
+    </td>
+    <!-- Neovim Main Editor Window -->
+    <td valign="top" style="padding-left: 15px;">
+      <!-- Tab Bar Navigation Placeholder -->
+      <!-- TODO: tab-bar navigation row -->
 
-<div align="center">
-  <h3>Connect with Me 🤝</h3>
-  <a href="mailto:mveretakudzwa@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-  </a>
-  <a href="mailto:mveretakudzwa@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
-</div>
+      <!-- Header Banner Placeholder -->
+      <!-- TODO: header banner -->
 
-<br />
+      <!-- Contact Row Placeholder -->
+      <!-- TODO: contact/status badge row -->
 
-<div align="center">
-  <h3>Languages & Tools 🛠️</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,tensorflow,pytorch,sklearn,html,css,tailwind,git,github,vscode,linux" />
-</div>
+      <!-- Sections -->
+      <div id="about">
+        <!-- TODO: about section -->
+      </div>
 
-<br />
+      <div id="stack">
+        <!-- TODO: stack section -->
+      </div>
 
-<div align="center">
-  <h3>Support Me ☕</h3>
-  <a href="https://www.buymeacoffee.com/takudzwamvere">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</div>
+      <div id="projects">
+        <!-- TODO: projects section -->
+      </div>
 
-<hr />
+      <div id="experience">
+        <!-- TODO: experience section -->
+      </div>
+
+      <div id="certs">
+        <!-- TODO: education and certifications sections -->
+      </div>
+
+      <div id="stats">
+        <!-- TODO: stats section -->
+      </div>
+
+      <!-- Footer Placeholder -->
+      <!-- TODO: footer status bar -->
+    </td>
+  </tr>
+</table>
