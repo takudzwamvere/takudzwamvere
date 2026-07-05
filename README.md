@@ -74,7 +74,23 @@ Location: Harare, Zimbabwe
 | **Glamson** | Driving school booking and marketing site | Next.js · TypeScript · Tailwind | [Live](https://glamson.takudzwamvere.dev/) |
 
 ## <a id="experience"></a>💼 experience.tsx
-<!-- TODO: experience section -->
+```
+[01] Software Developer — Hericom Media & Marketing
+     03/2026 – Present | Remote (Australia)
+     · Maintained and optimised the WordPress news portal and corporate site
+     · Deployed Broadstreet Ad Server and Potent Puzzles integrations
+     · Configured PressPatron payment pipelines and checkout flow
+     · Structured role-based access and editorial workflows for the team
+
+[02] Technical Intern — Omni Africa
+     02/2024 – 12/2024 | Hillside, Harare
+     · Delivered structured cabling and server setup for CABS Northridge branch
+     · Deployed Hikvision CCTV systems across multiple enterprise client sites
+     · Installed ZKTeco biometric access control, from survey to handover
+     · Led three user training sessions for a biometric attendance rollout
+       at Chitungwiza Municipality
+     · Configured Fortinet firewalls and Ruckus enterprise Wi-Fi access points
+```
 
 <!-- Section education.tsx placeholder -->
 <!-- TODO: education section -->
