@@ -92,7 +92,7 @@ Location: Harare, Zimbabwe
      · Configured Fortinet firewalls and Ruckus enterprise Wi-Fi access points
 ```
 
-<!-- Section education.tsx placeholder -->
+## <a id="education"></a>🎓 education.tsx
 <!-- TODO: education section -->
 
 <!-- Section certifications.tsx placeholder -->
