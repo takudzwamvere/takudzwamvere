@@ -117,5 +117,17 @@ Midlands State University | 03/2022 – 11/2025 | Class: 2.1
 
 </div>
 
-<!-- Footer Placeholder -->
-<!-- TODO: footer status bar -->
+<br>
+
+<hr>
+
+<div align="center">
+
+<code>-- NORMAL --</code> &nbsp;·&nbsp; <code>takudzwamvere.dev</code> &nbsp;·&nbsp; <code>Harare, ZW</code> &nbsp;·&nbsp; <code>[UTF-8]</code>
+
+<a href="https://takudzwamvere.dev"><img src="https://img.shields.io/badge/-portfolio-39FF14?logo=react&logoColor=0d1117&style=flat-square" /></a>
+<a href="mailto:mveretakudzwa@outlook.com"><img src="https://img.shields.io/badge/-email-39FF14?logo=microsoftoutlook&logoColor=0d1117&style=flat-square" /></a>
+<a href="https://linkedin.com/in/takudzwamvere"><img src="https://img.shields.io/badge/-linkedin-39FF14?logo=linkedin&logoColor=0d1117&style=flat-square" /></a>
+<a href="https://github.com/takudzwamvere"><img src="https://img.shields.io/badge/-github-39FF14?logo=github&logoColor=0d1117&style=flat-square" /></a>
+
+</div>
