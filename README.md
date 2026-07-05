@@ -244,9 +244,44 @@
       </div>
       <br />
 
+      <!-- Section: 06-certifications.tsx -->
       <div id="certs">
-        <!-- TODO: certifications section -->
+        <h3>🏆 06-certifications.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code><br>
+              <code>4</code><br>
+              <code>5</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>CERTIFICATIONS</code>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Certification</th>
+                    <th align="left">Platform</th>
+                    <th align="left">Badge</th>
+                    <th align="left">Verification</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- TODO: certifications from CV -->
+                  <tr>
+                    <td><code>TODO</code></td>
+                    <td><code>TODO</code></td>
+                    <td><!-- TODO: badge --></td>
+                    <td><!-- TODO: verification link --></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <div id="stats">
         <!-- TODO: stats section -->
