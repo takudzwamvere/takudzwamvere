@@ -98,7 +98,7 @@ BSc Honours Degree in Computer Systems Engineering
 Midlands State University | 03/2022 – 11/2025 | Class: 2.1
 ```
 
-<!-- Section certifications.tsx placeholder -->
+## <a id="certifications"></a>🏆 certifications.tsx
 <!-- TODO: certifications section -->
 
 <!-- Section stats.tsx placeholder -->
