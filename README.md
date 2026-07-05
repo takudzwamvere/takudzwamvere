@@ -283,9 +283,27 @@
       </div>
       <br />
 
+      <!-- Section: 07-stats.tsx -->
       <div id="stats">
-        <!-- TODO: stats section -->
+        <h3>📊 07-stats.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>GITHUB TELEMETRY</code><br>
+              <p align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=takudzwamvere&show_icons=true&bg_color=00000000&title_color=89b4fa&icon_color=89b4fa&text_color=cdd6f4&border_color=313244&hide_rank=true" alt="GitHub Stats" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=takudzwamvere&background=00000000&ring=89b4fa&fire=89b4fa&currStreakNum=89b4fa&sideNums=cdd6f4&currStreakLabel=89b4fa&sideLabels=cdd6f4&dates=a6adc8&stroke=313244" alt="GitHub Streak" />
+              </p>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <!-- Footer Placeholder -->
       <!-- TODO: footer status bar -->
