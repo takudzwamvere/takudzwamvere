@@ -84,7 +84,16 @@
               <code>6</code><br>
               <code>7</code><br>
               <code>8</code><br>
-              <code>9</code>
+              <code>9</code><br>
+              <code>10</code><br>
+              <code>11</code><br>
+              <code>12</code><br>
+              <code>13</code><br>
+              <code>14</code><br>
+              <code>15</code><br>
+              <code>16</code><br>
+              <code>17</code><br>
+              <code>18</code>
             </td>
             <td valign="top" style="padding-left: 10px; font-family: monospace;">
               <code>LANGUAGES</code><br>
@@ -98,6 +107,18 @@
               <code>BACKEND</code><br>
               <!-- TODO: skillicons row for backend from CV -->
               <img src="https://skillicons.dev/icons?i=django" alt="Backend" /><br>
+              <br>
+              <code>DATABASE</code><br>
+              <!-- TODO: skillicons row for database from CV -->
+              <img src="https://skillicons.dev/icons?i=postgres" alt="Database" /><br>
+              <br>
+              <code>INFRA & DEVOPS</code><br>
+              <!-- TODO: skillicons row for infra & devops from CV -->
+              <img src="https://skillicons.dev/icons?i=docker" alt="Infra & DevOps" /><br>
+              <br>
+              <code>TOOLING</code><br>
+              <!-- TODO: skillicons row for tools from CV -->
+              <img src="https://skillicons.dev/icons?i=git" alt="Tooling" /><br>
               <br>
             </td>
           </tr>
