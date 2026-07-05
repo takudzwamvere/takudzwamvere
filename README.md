@@ -99,7 +99,12 @@ Midlands State University | 03/2022 – 11/2025 | Class: 2.1
 ```
 
 ## <a id="certifications"></a>🏆 certifications.tsx
-<!-- TODO: certifications section -->
+| Certification | Platform |
+|---|---|
+| AWS Cloud Development Kit (CDK) — Getting Started | AWS Training |
+| Artificial Intelligence Foundations: Machine Learning | LinkedIn Learning |
+| Artificial Intelligence for Cybersecurity | LinkedIn Learning |
+| Blockchain: Learning Solidity | LinkedIn Learning |
 
 <!-- Section stats.tsx placeholder -->
 <!-- TODO: stats section -->
