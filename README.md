@@ -106,8 +106,16 @@ Midlands State University | 03/2022 – 11/2025 | Class: 2.1
 | Artificial Intelligence for Cybersecurity | LinkedIn Learning |
 | Blockchain: Learning Solidity | LinkedIn Learning |
 
-<!-- Section stats.tsx placeholder -->
-<!-- TODO: stats section -->
+## <a id="stats"></a>📊 stats.tsx
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=takudzwamvere&show_icons=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=cdd6f4&border_color=313244&hide_rank=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=takudzwamvere&background=00000000&ring=39FF14&fire=39FF14&currStreakNum=39FF14&sideNums=cdd6f4&currStreakLabel=39FF14&sideLabels=cdd6f4&dates=a6adc8&stroke=313244" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takudzwamvere&layout=compact&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=cdd6f4&border_color=313244" />
+
+</div>
 
 <!-- Footer Placeholder -->
 <!-- TODO: footer status bar -->
