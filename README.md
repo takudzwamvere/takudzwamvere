@@ -18,8 +18,11 @@
     </td>
     <!-- Neovim Main Editor Window -->
     <td valign="top" style="padding-left: 15px;">
-      <!-- Tab Bar Navigation Placeholder -->
-      <!-- TODO: tab-bar navigation row -->
+      <!-- Tab Bar Navigation Row -->
+      <div align="center">
+        <code><a href="#about">about</a></code> · <code><a href="#stack">stack</a></code> · <code><a href="#projects">projects</a></code> · <code><a href="#experience">experience</a></code> · <code><a href="#certs">certs</a></code> · <code><a href="#stats">stats</a></code>
+      </div>
+      <br />
 
       <!-- Header Banner Placeholder -->
       <div align="center">
