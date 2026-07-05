@@ -28,7 +28,7 @@ Open to software engineering, QA and graduate trainee roles.
 Location: Harare, Zimbabwe
 ```
 
-<!-- Section stack.tsx placeholder -->
+## <a id="stack"></a>🛠️ stack.tsx
 <!-- TODO: stack section -->
 
 <!-- Section projects.tsx placeholder -->
