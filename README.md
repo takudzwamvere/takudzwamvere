@@ -222,8 +222,30 @@
       </div>
       <br />
 
+      <!-- Section: 05-education.tsx -->
+      <div id="education">
+        <h3>🎓 05-education.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code><br>
+              <code>4</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>EDUCATION</code><br>
+              <br>
+              <!-- TODO: education details from CV -->
+              <code>Degree -- Institution -- Dates -- Result</code>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <br />
+
       <div id="certs">
-        <!-- TODO: education and certifications sections -->
+        <!-- TODO: certifications section -->
       </div>
 
       <div id="stats">
