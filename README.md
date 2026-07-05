@@ -22,7 +22,10 @@
       <!-- TODO: tab-bar navigation row -->
 
       <!-- Header Banner Placeholder -->
-      <!-- TODO: header banner -->
+      <div align="center">
+        <!-- TODO: header banner lines from CV -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=89B4FA&center=true&vCenter=true&width=500&height=50&lines=TODO+1;TODO+2;TODO+3" alt="Typing SVG" />
+      </div>
 
       <!-- Contact Row Placeholder -->
       <!-- TODO: contact/status badge row -->
