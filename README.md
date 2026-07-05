@@ -126,9 +126,46 @@
       </div>
       <br />
 
+      <!-- Section: 03-projects.tsx -->
       <div id="projects">
-        <!-- TODO: projects section -->
+        <h3>🚀 03-projects.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code><br>
+              <code>4</code><br>
+              <code>5</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>FLAGSHIP PROJECTS</code>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Project</th>
+                    <th align="left">Description</th>
+                    <th align="left">Tech Stack</th>
+                    <th align="left">Live</th>
+                    <th align="left">Repository</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- TODO: flagship projects from CV -->
+                  <tr>
+                    <td><code>TODO</code></td>
+                    <td><!-- TODO: description --></td>
+                    <td><!-- TODO: tech tags --></td>
+                    <td><!-- TODO: live --></td>
+                    <td><!-- TODO: repo --></td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <div id="experience">
         <!-- TODO: experience section -->
