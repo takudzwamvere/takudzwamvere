@@ -54,7 +54,16 @@ Location: Harare, Zimbabwe
 <img src="https://skillicons.dev/icons?i=git,figma,nginx" />
 
 ## <a id="projects"></a>🚀 projects.tsx
-<!-- TODO: projects section -->
+**Flagship builds**
+
+| Project | Description | Stack | Live | Repo |
+|---|---|---|---|---|
+| **Epidemic Prediction** | ML platform predicting outbreaks from EHR time-series data | Next.js · TensorFlow · Postgres | [Live](https://epidemicoracle.takudzwamvere.dev/) | [Repo](https://github.com/takudzwamvere/epidemic-oracle) |
+| **AI Traffic Optimizer** | React Native app with traffic-aware routing for Zimbabwean cities | React Native · Expo · OSRM | — | [Repo](https://github.com/takudzwamvere/ai-traffic-optimizer) |
+| **MSU Campus Map** | Interactive campus navigation for Midlands State University | Next.js · React · Leaflet | [Live](https://msucampusmap.online/) | [Repo](https://github.com/takudzwamvere/msu-campus-map-v1) |
+| **Haulage Truck Management** | Full-stack fleet management system, built to production under time constraints | Django Ninja · Postgres · Docker | [Live](https://haulagetrucks.lol) | [Repo](https://github.com/takudzwamvere/haulage-truck-management) |
+
+<!-- TODO: client/frontend work section placeholder -->
 
 <!-- Section experience.tsx placeholder -->
 <!-- TODO: experience section -->
