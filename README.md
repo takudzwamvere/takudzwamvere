@@ -307,8 +307,17 @@
       </div>
       <br />
 
-      <!-- Footer Placeholder -->
-      <!-- TODO: footer status bar -->
+      <!-- Footer Status Bar -->
+      <hr style="border: 1px solid #313244;" />
+      <p align="center">
+        <code>-- NORMAL --</code> &nbsp; <code>takudzwamvere.dev</code> &nbsp; <code>·</code> &nbsp; <code>Harare, ZW</code> &nbsp; <code>[UTF-8]</code>
+      </p>
+      <p align="center">
+        <a href="https://takudzwamvere.dev" target="_blank"><img src="https://img.shields.io/badge/-portfolio-89B4FA?logo=react&logoColor=0d1117&style=flat-square" /></a>
+        <a href="mailto:mveretakudzwa@outlook.com"><img src="https://img.shields.io/badge/-email-89B4FA?logo=microsoftoutlook&logoColor=0d1117&style=flat-square" /></a>
+        <a href="https://linkedin.com/in/takudzwamvere" target="_blank"><img src="https://img.shields.io/badge/-linkedin-89B4FA?logo=linkedin&logoColor=0d1117&style=flat-square" /></a>
+        <a href="https://github.com/takudzwamvere" target="_blank"><img src="https://img.shields.io/badge/-github-89B4FA?logo=github&logoColor=0d1117&style=flat-square" /></a>
+      </p>
     </td>
   </tr>
 </table>
