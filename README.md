@@ -29,7 +29,29 @@ Location: Harare, Zimbabwe
 ```
 
 ## <a id="stack"></a>🛠️ stack.tsx
-<!-- TODO: stack section -->
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs" />
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+
+**Infra & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,ubuntu,vercel,aws,azure,cloudflare" />
+
+**Tooling**
+<br>
+<img src="https://skillicons.dev/icons?i=git,figma,nginx" />
 
 <!-- Section projects.tsx placeholder -->
 <!-- TODO: projects section -->
