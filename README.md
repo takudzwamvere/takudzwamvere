@@ -78,12 +78,26 @@
             <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
               <code>1</code><br>
               <code>2</code><br>
-              <code>3</code>
+              <code>3</code><br>
+              <code>4</code><br>
+              <code>5</code><br>
+              <code>6</code><br>
+              <code>7</code><br>
+              <code>8</code><br>
+              <code>9</code>
             </td>
             <td valign="top" style="padding-left: 10px; font-family: monospace;">
               <code>LANGUAGES</code><br>
               <!-- TODO: skillicons row for core languages from CV -->
               <img src="https://skillicons.dev/icons?i=python" alt="Languages" /><br>
+              <br>
+              <code>FRONTEND</code><br>
+              <!-- TODO: skillicons row for frontend from CV -->
+              <img src="https://skillicons.dev/icons?i=react" alt="Frontend" /><br>
+              <br>
+              <code>BACKEND</code><br>
+              <!-- TODO: skillicons row for backend from CV -->
+              <img src="https://skillicons.dev/icons?i=django" alt="Backend" /><br>
               <br>
             </td>
           </tr>
