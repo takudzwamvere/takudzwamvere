@@ -70,9 +70,26 @@
       </div>
       <br />
 
+      <!-- Section: 02-stack.tsx -->
       <div id="stack">
-        <!-- TODO: stack section -->
+        <h3>🛠️ 02-stack.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>LANGUAGES</code><br>
+              <!-- TODO: skillicons row for core languages from CV -->
+              <img src="https://skillicons.dev/icons?i=python" alt="Languages" /><br>
+              <br>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <div id="projects">
         <!-- TODO: projects section -->
