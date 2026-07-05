@@ -16,7 +16,17 @@
 <br>
 
 ## <a id="about"></a>📄 about.tsx
-<!-- TODO: about section -->
+```
+$ cat about.txt
+
+Computer Systems Engineering graduate (2.1) from Midlands State University.
+Full-stack developer working across Django Ninja and Next.js, with hands-on
+experience in IT infrastructure, systems testing and cloud deployment.
+Currently building at Hericom Media & Marketing and co-founding Deonix.
+Open to software engineering, QA and graduate trainee roles.
+
+Location: Harare, Zimbabwe
+```
 
 <!-- Section stack.tsx placeholder -->
 <!-- TODO: stack section -->
