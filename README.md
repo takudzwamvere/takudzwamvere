@@ -15,7 +15,7 @@
 
 <br>
 
-<!-- Section about.tsx placeholder -->
+## <a id="about"></a>📄 about.tsx
 <!-- TODO: about section -->
 
 <!-- Section stack.tsx placeholder -->
