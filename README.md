@@ -136,7 +136,12 @@
               <code>2</code><br>
               <code>3</code><br>
               <code>4</code><br>
-              <code>5</code>
+              <code>5</code><br>
+              <code>6</code><br>
+              <code>7</code><br>
+              <code>8</code><br>
+              <code>9</code><br>
+              <code>10</code>
             </td>
             <td valign="top" style="padding-left: 10px; font-family: monospace;">
               <code>FLAGSHIP PROJECTS</code>
@@ -152,6 +157,29 @@
                 </thead>
                 <tbody>
                   <!-- TODO: flagship projects from CV -->
+                  <tr>
+                    <td><code>TODO</code></td>
+                    <td><!-- TODO: description --></td>
+                    <td><!-- TODO: tech tags --></td>
+                    <td><!-- TODO: live --></td>
+                    <td><!-- TODO: repo --></td>
+                  </tr>
+                </tbody>
+              </table>
+              <br>
+              <code>CLIENT & FRONTEND WORK</code>
+              <table>
+                <thead>
+                  <tr>
+                    <th align="left">Project</th>
+                    <th align="left">Description</th>
+                    <th align="left">Tech Stack</th>
+                    <th align="left">Live</th>
+                    <th align="left">Repository</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <!-- TODO: client/frontend work from CV -->
                   <tr>
                     <td><code>TODO</code></td>
                     <td><!-- TODO: description --></td>
