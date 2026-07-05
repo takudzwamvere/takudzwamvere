@@ -48,9 +48,27 @@
       </div>
 
       <!-- Sections -->
+      <!-- Section: 01-about.tsx -->
       <div id="about">
-        <!-- TODO: about section -->
+        <h3>⚛️ 01-about.tsx</h3>
+        <table>
+          <tr>
+            <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
+              <code>1</code><br>
+              <code>2</code><br>
+              <code>3</code><br>
+              <code>4</code>
+            </td>
+            <td valign="top" style="padding-left: 10px; font-family: monospace;">
+              <code>$ cat about.txt</code><br>
+              <code><!-- TODO: who I am / what I build --></code><br>
+              <code><!-- TODO: current focus --></code><br>
+              <code><!-- TODO: open-to status --></code>
+            </td>
+          </tr>
+        </table>
       </div>
+      <br />
 
       <div id="stack">
         <!-- TODO: stack section -->
