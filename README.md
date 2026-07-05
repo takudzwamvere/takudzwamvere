@@ -73,7 +73,7 @@ Location: Harare, Zimbabwe
 | **Russell Planners** | Luxury event design and planning marketing site | Next.js · React · Tailwind | [Live](https://russellplanners.takudzwamvere.dev/) |
 | **Glamson** | Driving school booking and marketing site | Next.js · TypeScript · Tailwind | [Live](https://glamson.takudzwamvere.dev/) |
 
-<!-- Section experience.tsx placeholder -->
+## <a id="experience"></a>💼 experience.tsx
 <!-- TODO: experience section -->
 
 <!-- Section education.tsx placeholder -->
