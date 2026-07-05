@@ -53,7 +53,7 @@ Location: Harare, Zimbabwe
 <br>
 <img src="https://skillicons.dev/icons?i=git,figma,nginx" />
 
-<!-- Section projects.tsx placeholder -->
+## <a id="projects"></a>🚀 projects.tsx
 <!-- TODO: projects section -->
 
 <!-- Section experience.tsx placeholder -->
