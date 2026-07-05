@@ -125,9 +125,6 @@
       <!-- Section: 03-projects.tsx -->
       <div id="projects">
         <h3>🚀 03-projects.tsx</h3>
-      <!-- Section: 03-projects.tsx -->
-      <div id="projects">
-        <h3>🚀 03-projects.tsx</h3>
         <table>
           <tr>
             <td valign="top" align="right" style="color: #6c7086; font-family: monospace; padding-right: 10px; border-right: 1px solid #313244; user-select: none;">
