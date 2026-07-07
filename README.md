@@ -17,7 +17,7 @@
 
 ## <a id="about"></a>📄 about.tsx
 ```
-$ cat about.txt
+$ cat aboutme.txt
 
 Computer Systems Engineering graduate (2.1) from Midlands State University.
 Full-stack developer working across Django Ninja and Next.js, with hands-on
