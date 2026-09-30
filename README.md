@@ -41,7 +41,7 @@ Location: Harare, Zimbabwe
 <br>
 <img src="https://skillicons.dev/icons?i=django,fastapi,spring,nodejs" />
 
-**Database**
+**Database Management**
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 
